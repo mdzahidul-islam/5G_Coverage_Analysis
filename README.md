@@ -25,11 +25,11 @@ This project requires Python 3.8+, along with the following Python libraries:
 - matplotlib
 - jupyter
 - seaborn
+- pickle
 
 You can install these dependencies via `pip` using the following command:
 
-'''bash
-pip install numpy pandas scikit-learn xgboost matplotlib jupyter seaborn
+pip install numpy pandas scikit-learn xgboost matplotlib jupyter seaborn pickle
 
 
 # Getting Started
