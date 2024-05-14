@@ -12,7 +12,7 @@ The path loss dataset is analyzed as a regression task, while the throughput dat
 
 # Report
 
-For a detailed analysis and comprehensive results, please refer to the attached project report.
+For a detailed analysis and comprehensive results, please refer to the attached ['project report'](./Project_report.pdf).
 
 # Requirements
 
